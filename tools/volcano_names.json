@@ -1,0 +1,950 @@
+{
+ "note": "Названия вулканов приложения для сопоставления с прогнозом KVERT. Собирается из content/volcanoes.json скриптом публикации сайта.",
+ "items": [
+  {
+   "id": "gvp-300260",
+   "gvpNumber": 300260,
+   "nameRu": "Ключевская сопка"
+  },
+  {
+   "id": "gvp-300251",
+   "gvpNumber": 300251,
+   "nameRu": "Камень"
+  },
+  {
+   "id": "gvp-300261",
+   "gvpNumber": 300261,
+   "nameRu": "Ушковский"
+  },
+  {
+   "id": "gvp-300240",
+   "gvpNumber": 300240,
+   "nameRu": "Толбачик"
+  },
+  {
+   "id": "gvp-300280",
+   "gvpNumber": 300280,
+   "nameRu": "Ичинская сопка"
+  },
+  {
+   "id": "gvp-300200",
+   "gvpNumber": 300200,
+   "nameRu": "Кроноцкая сопка"
+  },
+  {
+   "id": "gvp-300090",
+   "gvpNumber": 300090,
+   "nameRu": "Корякская сопка"
+  },
+  {
+   "id": "gvp-300270",
+   "gvpNumber": 300270,
+   "nameRu": "Шивелуч"
+  },
+  {
+   "id": "gvp-300242",
+   "gvpNumber": 300242,
+   "nameRu": "Зимина"
+  },
+  {
+   "id": "gvp-300120",
+   "gvpNumber": 300120,
+   "nameRu": "Жупановский"
+  },
+  {
+   "id": "gvp-300241",
+   "gvpNumber": 300241,
+   "nameRu": "Большая Удина"
+  },
+  {
+   "id": "gvp-300250",
+   "gvpNumber": 300250,
+   "nameRu": "Безымянный"
+  },
+  {
+   "id": "gvp-300100",
+   "gvpNumber": 300100,
+   "nameRu": "Авачинская сопка"
+  },
+  {
+   "id": "gvp-300904",
+   "gvpNumber": 300904,
+   "nameRu": "Хувхойтун"
+  },
+  {
+   "id": "gvp-300450",
+   "gvpNumber": 300450,
+   "nameRu": "Алней-Чашаконджа"
+  },
+  {
+   "id": "gvp-300680",
+   "gvpNumber": 300680,
+   "nameRu": "Острый"
+  },
+  {
+   "id": "gvp-300210",
+   "gvpNumber": 300210,
+   "nameRu": "Гамчен"
+  },
+  {
+   "id": "gvp-300580",
+   "gvpNumber": 300580,
+   "nameRu": "Шишель"
+  },
+  {
+   "id": "gvp-300080",
+   "gvpNumber": 300080,
+   "nameRu": "Опала"
+  },
+  {
+   "id": "gvp-300230",
+   "gvpNumber": 300230,
+   "nameRu": "Кизимен"
+  },
+  {
+   "id": "gvp-300830",
+   "gvpNumber": 300830,
+   "nameRu": "Ааг"
+  },
+  {
+   "id": "gvp-300160",
+   "gvpNumber": 300160,
+   "nameRu": "Тауншиц"
+  },
+  {
+   "id": "gvp-300670",
+   "gvpNumber": 300670,
+   "nameRu": "Иктунуп"
+  },
+  {
+   "id": "gvp-300060",
+   "gvpNumber": 300060,
+   "nameRu": "Мутновский"
+  },
+  {
+   "id": "gvp-300110",
+   "gvpNumber": 300110,
+   "nameRu": "Дзензур"
+  },
+  {
+   "id": "gvp-300123",
+   "gvpNumber": 300123,
+   "nameRu": "Бакенинг"
+  },
+  {
+   "id": "gvp-300853",
+   "gvpNumber": 300853,
+   "nameRu": "Тумрок"
+  },
+  {
+   "id": "gvp-300083",
+   "gvpNumber": 300083,
+   "nameRu": "Вилючинский"
+  },
+  {
+   "id": "gvp-300671",
+   "gvpNumber": 300671,
+   "nameRu": "Спокойный"
+  },
+  {
+   "id": "gvp-300660",
+   "gvpNumber": 300660,
+   "nameRu": "Снежный"
+  },
+  {
+   "id": "gvp-300690",
+   "gvpNumber": 300690,
+   "nameRu": "Снеговой"
+  },
+  {
+   "id": "gvp-300873",
+   "gvpNumber": 300873,
+   "nameRu": "Вулкан без названия, 55,5° с. ш."
+  },
+  {
+   "id": "gvp-300874",
+   "gvpNumber": 300874,
+   "nameRu": "Оччамо"
+  },
+  {
+   "id": "gvp-300846",
+   "gvpNumber": 300846,
+   "nameRu": "Унана"
+  },
+  {
+   "id": "gvp-300221",
+   "gvpNumber": 300221,
+   "nameRu": "Высокий"
+  },
+  {
+   "id": "gvp-300550",
+   "gvpNumber": 300550,
+   "nameRu": "Горный Институт"
+  },
+  {
+   "id": "gvp-300010",
+   "gvpNumber": 300010,
+   "nameRu": "Камбальный"
+  },
+  {
+   "id": "gvp-300640",
+   "gvpNumber": 300640,
+   "nameRu": "Белый"
+  },
+  {
+   "id": "gvp-300220",
+   "gvpNumber": 300220,
+   "nameRu": "Комарова"
+  },
+  {
+   "id": "gvp-300849",
+   "gvpNumber": 300849,
+   "nameRu": "Пийпа"
+  },
+  {
+   "id": "gvp-300053",
+   "gvpNumber": 300053,
+   "nameRu": "Ходутка"
+  },
+  {
+   "id": "gvp-300201",
+   "gvpNumber": 300201,
+   "nameRu": "Шмидта"
+  },
+  {
+   "id": "gvp-300330",
+   "gvpNumber": 300330,
+   "nameRu": "Козыревка"
+  },
+  {
+   "id": "gvp-300272",
+   "gvpNumber": 300272,
+   "nameRu": "Хангар"
+  },
+  {
+   "id": "gvp-300320",
+   "gvpNumber": 300320,
+   "nameRu": "Ахтанг"
+  },
+  {
+   "id": "gvp-300700",
+   "gvpNumber": 300700,
+   "nameRu": "Северный"
+  },
+  {
+   "id": "gvp-300040",
+   "gvpNumber": 300040,
+   "nameRu": "Желтовский"
+  },
+  {
+   "id": "gvp-300893",
+   "gvpNumber": 300893,
+   "nameRu": "Киреунский"
+  },
+  {
+   "id": "gvp-300851",
+   "gvpNumber": 300851,
+   "nameRu": "Конради"
+  },
+  {
+   "id": "gvp-300058",
+   "gvpNumber": 300058,
+   "nameRu": "Асача"
+  },
+  {
+   "id": "gvp-300300",
+   "gvpNumber": 300300,
+   "nameRu": "Большой Паялпан"
+  },
+  {
+   "id": "gvp-300905",
+   "gvpNumber": 300905,
+   "nameRu": "Кевенэй"
+  },
+  {
+   "id": "gvp-300273",
+   "gvpNumber": 300273,
+   "nameRu": "Черпук"
+  },
+  {
+   "id": "gvp-300890",
+   "gvpNumber": 300890,
+   "nameRu": "Малый Алней"
+  },
+  {
+   "id": "gvp-300856",
+   "gvpNumber": 300856,
+   "nameRu": "Иульт"
+  },
+  {
+   "id": "gvp-300390",
+   "gvpNumber": 300390,
+   "nameRu": "Анаун"
+  },
+  {
+   "id": "gvp-300020",
+   "gvpNumber": 300020,
+   "nameRu": "Кошелева"
+  },
+  {
+   "id": "gvp-300600",
+   "gvpNumber": 300600,
+   "nameRu": "Алнгей"
+  },
+  {
+   "id": "gvp-300876",
+   "gvpNumber": 300876,
+   "nameRu": "Большая Романовка"
+  },
+  {
+   "id": "gvp-300877",
+   "gvpNumber": 300877,
+   "nameRu": "Вулкан без названия, 55,9° с. ш."
+  },
+  {
+   "id": "gvp-300190",
+   "gvpNumber": 300190,
+   "nameRu": "Крашенинникова"
+  },
+  {
+   "id": "gvp-300833",
+   "gvpNumber": 300833,
+   "nameRu": "Вершинский"
+  },
+  {
+   "id": "gvp-300290",
+   "gvpNumber": 300290,
+   "nameRu": "Малый Паялпан"
+  },
+  {
+   "id": "gvp-300070",
+   "gvpNumber": 300070,
+   "nameRu": "Горелый"
+  },
+  {
+   "id": "gvp-300878",
+   "gvpNumber": 300878,
+   "nameRu": "Бонгапти"
+  },
+  {
+   "id": "gvp-300460",
+   "gvpNumber": 300460,
+   "nameRu": "Чёрный"
+  },
+  {
+   "id": "gvp-300650",
+   "gvpNumber": 300650,
+   "nameRu": "Атласова"
+  },
+  {
+   "id": "gvp-300900",
+   "gvpNumber": 300900,
+   "nameRu": "Каменистый"
+  },
+  {
+   "id": "gvp-300870",
+   "gvpNumber": 300870,
+   "nameRu": "Тынуа"
+  },
+  {
+   "id": "gvp-300150",
+   "gvpNumber": 300150,
+   "nameRu": "Большой Семячик"
+  },
+  {
+   "id": "gvp-300852",
+   "gvpNumber": 300852,
+   "nameRu": "Сокол"
+  },
+  {
+   "id": "gvp-300350",
+   "gvpNumber": 300350,
+   "nameRu": "Уксичан"
+  },
+  {
+   "id": "gvp-300840",
+   "gvpNumber": 300840,
+   "nameRu": "Жупановские Востряки"
+  },
+  {
+   "id": "gvp-300875",
+   "gvpNumber": 300875,
+   "nameRu": "Большой Козыревский"
+  },
+  {
+   "id": "gvp-300899",
+   "gvpNumber": 300899,
+   "nameRu": "Пирожникова"
+  },
+  {
+   "id": "gvp-300570",
+   "gvpNumber": 300570,
+   "nameRu": "Междусопочный"
+  },
+  {
+   "id": "gvp-300894",
+   "gvpNumber": 300894,
+   "nameRu": "Двухъюрточный"
+  },
+  {
+   "id": "gvp-300170",
+   "gvpNumber": 300170,
+   "nameRu": "Узон"
+  },
+  {
+   "id": "gvp-300610",
+   "gvpNumber": 300610,
+   "nameRu": "Ука"
+  },
+  {
+   "id": "gvp-300620",
+   "gvpNumber": 300620,
+   "nameRu": "Кайленэй"
+  },
+  {
+   "id": "gvp-300030",
+   "gvpNumber": 300030,
+   "nameRu": "Ильинский"
+  },
+  {
+   "id": "gvp-300400",
+   "gvpNumber": 300400,
+   "nameRu": "Крайний"
+  },
+  {
+   "id": "gvp-300124",
+   "gvpNumber": 300124,
+   "nameRu": "Заварицкий"
+  },
+  {
+   "id": "gvp-300906",
+   "gvpNumber": 300906,
+   "nameRu": "Лангтуткин"
+  },
+  {
+   "id": "gvp-300140",
+   "gvpNumber": 300140,
+   "nameRu": "Малый Семячик"
+  },
+  {
+   "id": "gvp-300500",
+   "gvpNumber": 300500,
+   "nameRu": "Кэбеней"
+  },
+  {
+   "id": "gvp-300560",
+   "gvpNumber": 300560,
+   "nameRu": "Титила"
+  },
+  {
+   "id": "gvp-300885",
+   "gvpNumber": 300885,
+   "nameRu": "Большая Кетепана"
+  },
+  {
+   "id": "gvp-300540",
+   "gvpNumber": 300540,
+   "nameRu": "Тузовский"
+  },
+  {
+   "id": "gvp-300180",
+   "gvpNumber": 300180,
+   "nameRu": "Кихпиныч"
+  },
+  {
+   "id": "gvp-300130",
+   "gvpNumber": 300130,
+   "nameRu": "Карымская сопка"
+  },
+  {
+   "id": "gvp-300868",
+   "gvpNumber": 300868,
+   "nameRu": "Продольный"
+  },
+  {
+   "id": "gvp-300847",
+   "gvpNumber": 300847,
+   "nameRu": "Адаможец"
+  },
+  {
+   "id": "gvp-300880",
+   "gvpNumber": 300880,
+   "nameRu": "Будули"
+  },
+  {
+   "id": "gvp-300902",
+   "gvpNumber": 300902,
+   "nameRu": "Ульванэй"
+  },
+  {
+   "id": "gvp-300340",
+   "gvpNumber": 300340,
+   "nameRu": "Романовка"
+  },
+  {
+   "id": "gvp-300872",
+   "gvpNumber": 300872,
+   "nameRu": "Кимитина"
+  },
+  {
+   "id": "gvp-300470",
+   "gvpNumber": 300470,
+   "nameRu": "Пограничный"
+  },
+  {
+   "id": "gvp-300860",
+   "gvpNumber": 300860,
+   "nameRu": "Харчинский"
+  },
+  {
+   "id": "gvp-300360",
+   "gvpNumber": 300360,
+   "nameRu": "Большой Кекукнайский"
+  },
+  {
+   "id": "gvp-300440",
+   "gvpNumber": 300440,
+   "nameRu": "Верховой"
+  },
+  {
+   "id": "gvp-300520",
+   "gvpNumber": 300520,
+   "nameRu": "Седанкинский"
+  },
+  {
+   "id": "gvp-300901",
+   "gvpNumber": 300901,
+   "nameRu": "Теклетунуп"
+  },
+  {
+   "id": "gvp-300892",
+   "gvpNumber": 300892,
+   "nameRu": "Большой Чекчебонай"
+  },
+  {
+   "id": "gvp-300841",
+   "gvpNumber": 300841,
+   "nameRu": "Дитмара"
+  },
+  {
+   "id": "gvp-300590",
+   "gvpNumber": 300590,
+   "nameRu": "Еловский"
+  },
+  {
+   "id": "gvp-300410",
+   "gvpNumber": 300410,
+   "nameRu": "Кекурный"
+  },
+  {
+   "id": "gvp-300888",
+   "gvpNumber": 300888,
+   "nameRu": "Тигильский"
+  },
+  {
+   "id": "gvp-300832",
+   "gvpNumber": 300832,
+   "nameRu": "Китхойский"
+  },
+  {
+   "id": "gvp-300480",
+   "gvpNumber": 300480,
+   "nameRu": "Заозёрный"
+  },
+  {
+   "id": "gvp-300903",
+   "gvpNumber": 300903,
+   "nameRu": "Мутный"
+  },
+  {
+   "id": "gvp-300710",
+   "gvpNumber": 300710,
+   "nameRu": "Иэттунуп"
+  },
+  {
+   "id": "gvp-300889",
+   "gvpNumber": 300889,
+   "nameRu": "Переваловый"
+  },
+  {
+   "id": "gvp-300054",
+   "gvpNumber": 300054,
+   "nameRu": "Пиратковский"
+  },
+  {
+   "id": "gvp-300530",
+   "gvpNumber": 300530,
+   "nameRu": "Леутонгей"
+  },
+  {
+   "id": "gvp-300871",
+   "gvpNumber": 300871,
+   "nameRu": "Этопань"
+  },
+  {
+   "id": "gvp-300630",
+   "gvpNumber": 300630,
+   "nameRu": "Плоский"
+  },
+  {
+   "id": "gvp-300891",
+   "gvpNumber": 300891,
+   "nameRu": "Малый Чекчебонай"
+  },
+  {
+   "id": "gvp-300490",
+   "gvpNumber": 300490,
+   "nameRu": "Близнец"
+  },
+  {
+   "id": "gvp-300884",
+   "gvpNumber": 300884,
+   "nameRu": "Малая Кетепана"
+  },
+  {
+   "id": "gvp-300059",
+   "gvpNumber": 300059,
+   "nameRu": "Высокий (1227 м)"
+  },
+  {
+   "id": "gvp-300896",
+   "gvpNumber": 300896,
+   "nameRu": "Калгауч"
+  },
+  {
+   "id": "gvp-300882",
+   "gvpNumber": 300882,
+   "nameRu": "Янпат"
+  },
+  {
+   "id": "gvp-300087",
+   "gvpNumber": 300087,
+   "nameRu": "Карымшина"
+  },
+  {
+   "id": "gvp-300310",
+   "gvpNumber": 300310,
+   "nameRu": "Плоский (1200 м)"
+  },
+  {
+   "id": "gvp-300842",
+   "gvpNumber": 300842,
+   "nameRu": "Крайний (Восточная Камчатка)"
+  },
+  {
+   "id": "gvp-300822",
+   "gvpNumber": 300822,
+   "nameRu": "Большая Ипелька"
+  },
+  {
+   "id": "gvp-300883",
+   "gvpNumber": 300883,
+   "nameRu": "Чавыча"
+  },
+  {
+   "id": "gvp-300125",
+   "gvpNumber": 300125,
+   "nameRu": "Академии Наук"
+  },
+  {
+   "id": "gvp-300869",
+   "gvpNumber": 300869,
+   "nameRu": "Кобалан"
+  },
+  {
+   "id": "gvp-300380",
+   "gvpNumber": 300380,
+   "nameRu": "Геодезистов"
+  },
+  {
+   "id": "gvp-300897",
+   "gvpNumber": 300897,
+   "nameRu": "Кунхилок"
+  },
+  {
+   "id": "gvp-300122",
+   "gvpNumber": 300122,
+   "nameRu": "Костакан"
+  },
+  {
+   "id": "gvp-300881",
+   "gvpNumber": 300881,
+   "nameRu": "Копкан"
+  },
+  {
+   "id": "gvp-300823",
+   "gvpNumber": 300823,
+   "nameRu": "Толмачёва"
+  },
+  {
+   "id": "gvp-300879",
+   "gvpNumber": 300879,
+   "nameRu": "Носичан"
+  },
+  {
+   "id": "gvp-300720",
+   "gvpNumber": 300720,
+   "nameRu": "Воямпольский"
+  },
+  {
+   "id": "gvp-300816",
+   "gvpNumber": 300816,
+   "nameRu": "Круглый"
+  },
+  {
+   "id": "gvp-300420",
+   "gvpNumber": 300420,
+   "nameRu": "Эггелла"
+  },
+  {
+   "id": "gvp-300022",
+   "gvpNumber": 300022,
+   "nameRu": "Дикий Хребет"
+  },
+  {
+   "id": "gvp-300802",
+   "gvpNumber": 300802,
+   "nameRu": "Дед и Баба"
+  },
+  {
+   "id": "gvp-300082",
+   "gvpNumber": 300082,
+   "nameRu": "Толмачёв Дол"
+  },
+  {
+   "id": "gvp-300867",
+   "gvpNumber": 300867,
+   "nameRu": "Лаучачан"
+  },
+  {
+   "id": "gvp-300050",
+   "gvpNumber": 300050,
+   "nameRu": "Ксудач"
+  },
+  {
+   "id": "gvp-300814",
+   "gvpNumber": 300814,
+   "nameRu": "Скалистый"
+  },
+  {
+   "id": "gvp-300898",
+   "gvpNumber": 300898,
+   "nameRu": "Шлен"
+  },
+  {
+   "id": "gvp-300811",
+   "gvpNumber": 300811,
+   "nameRu": "Кузанек"
+  },
+  {
+   "id": "gvp-300510",
+   "gvpNumber": 300510,
+   "nameRu": "Федотыч"
+  },
+  {
+   "id": "gvp-300808",
+   "gvpNumber": 300808,
+   "nameRu": "Кужетен"
+  },
+  {
+   "id": "gvp-300370",
+   "gvpNumber": 300370,
+   "nameRu": "Кулкев"
+  },
+  {
+   "id": "gvp-300817",
+   "gvpNumber": 300817,
+   "nameRu": "Саван"
+  },
+  {
+   "id": "gvp-300041",
+   "gvpNumber": 300041,
+   "nameRu": "Келля"
+  },
+  {
+   "id": "gvp-300042",
+   "gvpNumber": 300042,
+   "nameRu": "Беленькая"
+  },
+  {
+   "id": "gvp-300821",
+   "gvpNumber": 300821,
+   "nameRu": "Удочка"
+  },
+  {
+   "id": "gvp-300820",
+   "gvpNumber": 300820,
+   "nameRu": "Плоский (Южная Камчатка)"
+  },
+  {
+   "id": "gvp-300084",
+   "gvpNumber": 300084,
+   "nameRu": "Бархатная сопка"
+  },
+  {
+   "id": "gvp-300057",
+   "gvpNumber": 300057,
+   "nameRu": "Голая"
+  },
+  {
+   "id": "gvp-300819",
+   "gvpNumber": 300819,
+   "nameRu": "Камень (Южная Камчатка)"
+  },
+  {
+   "id": "gvp-300056",
+   "gvpNumber": 300056,
+   "nameRu": "Отдельный"
+  },
+  {
+   "id": "gvp-300810",
+   "gvpNumber": 300810,
+   "nameRu": "Жёлтый"
+  },
+  {
+   "id": "gvp-300512",
+   "gvpNumber": 300512,
+   "nameRu": "Терпук"
+  },
+  {
+   "id": "gvp-300859",
+   "gvpNumber": 300859,
+   "nameRu": "Заречный"
+  },
+  {
+   "id": "gvp-300803",
+   "gvpNumber": 300803,
+   "nameRu": "Третья Речка"
+  },
+  {
+   "id": "gvp-300887",
+   "gvpNumber": 300887,
+   "nameRu": "Овальный"
+  },
+  {
+   "id": "gvp-300055",
+   "gvpNumber": 300055,
+   "nameRu": "Останец"
+  },
+  {
+   "id": "gvp-300800",
+   "gvpNumber": 300800,
+   "nameRu": "Высокий (708 м)"
+  },
+  {
+   "id": "gvp-300813",
+   "gvpNumber": 300813,
+   "nameRu": "Иголки"
+  },
+  {
+   "id": "gvp-300052",
+   "gvpNumber": 300052,
+   "nameRu": "Группа Ольхового"
+  },
+  {
+   "id": "gvp-300801",
+   "gvpNumber": 300801,
+   "nameRu": "Туманный"
+  },
+  {
+   "id": "gvp-300021",
+   "gvpNumber": 300021,
+   "nameRu": "Явинский"
+  },
+  {
+   "id": "gvp-300551",
+   "gvpNumber": 300551,
+   "nameRu": "Киненин"
+  },
+  {
+   "id": "gvp-300121",
+   "gvpNumber": 300121,
+   "nameRu": "Веер"
+  },
+  {
+   "id": "gvp-300001",
+   "gvpNumber": 300001,
+   "nameRu": "Машковцева"
+  },
+  {
+   "id": "gvp-300511",
+   "gvpNumber": 300511,
+   "nameRu": "Шишейка"
+  },
+  {
+   "id": "gvp-300552",
+   "gvpNumber": 300552,
+   "nameRu": "Близнецы"
+  },
+  {
+   "id": "gvp-300861",
+   "gvpNumber": 300861,
+   "nameRu": "Вулкан без названия, 56,5° с. ш."
+  },
+  {
+   "id": "gvp-300023",
+   "gvpNumber": 300023,
+   "nameRu": "Курильское озеро"
+  },
+  {
+   "id": "gvp-300815",
+   "gvpNumber": 300815,
+   "nameRu": "Перевальный"
+  },
+  {
+   "id": "gvp-300818",
+   "gvpNumber": 300818,
+   "nameRu": "Малая Ипелька"
+  },
+  {
+   "id": "gvp-300809",
+   "gvpNumber": 300809,
+   "nameRu": "Восточная Ходутка"
+  },
+  {
+   "id": "gvp-300831",
+   "gvpNumber": 300831,
+   "nameRu": "Купол"
+  },
+  {
+   "id": "gvp-300843",
+   "gvpNumber": 300843,
+   "nameRu": "Разлатый"
+  },
+  {
+   "id": "gvp-300834",
+   "gvpNumber": 300834,
+   "nameRu": "Скалистый (Восточная Камчатка)"
+  },
+  {
+   "id": "gvp-300848",
+   "gvpNumber": 300848,
+   "nameRu": "Богачёвский"
+  },
+  {
+   "id": "gvp-300850",
+   "gvpNumber": 300850,
+   "nameRu": "Конечная"
+  },
+  {
+   "id": "gvp-300863",
+   "gvpNumber": 300863,
+   "nameRu": "Лызык"
+  },
+  {
+   "id": "gvp-300864",
+   "gvpNumber": 300864,
+   "nameRu": "Учкорен"
+  },
+  {
+   "id": "gvp-300886",
+   "gvpNumber": 300886,
+   "nameRu": "Вулкан без названия, 57,0° с. ш."
+  },
+  {
+   "id": "gvp-300895",
+   "gvpNumber": 300895,
+   "nameRu": "Вулкан без названия, 56,9° с. ш."
+  }
+ ]
+}
