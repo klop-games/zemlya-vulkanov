@@ -1,5 +1,6 @@
 name: Данные приложения
-# Раз в день: коды KVERT публикуются сами, о новой сводке Минтуризма приходит задача (issue).
+# Раз в день: коды KVERT публикуются сами. Сторож сводок Минтуризма (tools/mintur_watch.py)
+# здесь не работает: kamgov.ru отвечает серверам GitHub 403 (проверено 20.11.2026).
 # Решение Никиты 20.11.2026: проверка на сервере GitHub вместо задачи Claude на Mac.
 on:
   schedule:
@@ -8,7 +9,6 @@ on:
 
 permissions:
   contents: write
-  issues: write
 
 jobs:
   data:
@@ -25,8 +25,3 @@ jobs:
             git commit -m "Коды KVERT: прогноз от $(python3 -c 'import json;print(json.load(open("activity.json"))["forecastDate"])')" -- activity.json updates.json
             git push
           fi
-      - name: Новая сводка Минтуризма
-        if: always()
-        env:
-          GH_TOKEN: ${{ github.token }}
-        run: python3 tools/mintur_watch.py
