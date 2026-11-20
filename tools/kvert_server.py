@@ -34,8 +34,19 @@ MIN_VOLCANOES = 20
 
 
 def text_of(url):
+    # С серверов GitHub kvert.febras.net отвечает через раз (20.11.2026 один запуск
+    # прошёл, следующий ушёл в тайм-аут) — три попытки с паузой
+    import time
     req = urllib.request.Request(url, headers={"User-Agent": UA})
-    raw = urllib.request.urlopen(req, timeout=60).read().decode("utf-8", "replace")
+    for attempt in range(3):
+        try:
+            raw = urllib.request.urlopen(req, timeout=90).read().decode("utf-8", "replace")
+            break
+        except OSError as e:
+            if attempt == 2:
+                raise
+            print("KVERT не ответил (%s), повтор через минуту" % e)
+            time.sleep(60)
     raw = re.sub(r"(?s)<script.*?</script>", " ", raw)
     raw = re.sub(r"(?s)<style.*?</style>", " ", raw)
     t = html.unescape(re.sub(r"\s+", " ", re.sub("<[^>]+>", "|", raw)))
